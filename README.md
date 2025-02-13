@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ashraf Ali Miya
 
 ### 💻 About Me
-I'm a passionate student pursuing **Computer Science** at **United Secondary English Boarding School (USEBS)**. I have a strong interest in programming, web development, and problem-solving. 
+I'm a passionate student pursuing **Bachelor of Computer Science and Infromation Technology** at **United Secondary English Boarding School (USEBS)**. I have a strong interest in programming, web development, and problem-solving. 
 
 ### 🚀 What I'm Currently Learning
 - Web Development (HTML, CSS, JavaScript, Node.js, MongoDB)
